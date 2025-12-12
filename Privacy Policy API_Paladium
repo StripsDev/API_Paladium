@@ -1,0 +1,15 @@
+Le bot peut stocker certaines données nécessaires à son fonctionnement, comme :
+les IDs d’utilisateurs,
+les IDs de serveurs,
+les logs liés aux commandes (si activés par l’administrateur du serveur).
+
+Le bot ne collecte aucune donnée sensible (emails, messages privés, IPs, etc.).
+
+Les données sont utilisées uniquement pour :
+exécuter les fonctionnalités du bot,
+améliorer la qualité du service,
+assurer la stabilité du bot.
+
+Toute donnée peut être supprimée sur demande en contactant : strips_
+
+Les développeurs ne partagent ni ne vendent aucune donnée collectée.
